@@ -1,0 +1,8 @@
+[package]
+name = "rust-setting-test"
+version = "0.1.0"
+authors = ["Joni Mäkelä <joni.makela@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+config = "0.9"
